@@ -1,3 +1,5 @@
 [user]
 	name = Vaibhav P
 	email = 52103891+vaibhav-75007@users.noreply.github.com
+[core]
+	editor = nvim
