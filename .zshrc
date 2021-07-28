@@ -123,3 +123,13 @@ lfcd () {
 # pressing ctrl o to open filexpl
 bindkey -s '^o' 'lfcd\n'
 
+## ALIASES ##
+# some more ls aliases
+alias ll='ls -alF'
+alias la='ls -A'
+alias l='ls -CF'
+
+# confirm before overwriting something
+alias cp="cp -i"
+alias mv='mv -i'
+alias rm='rm -i'
