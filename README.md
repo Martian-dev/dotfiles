@@ -2,7 +2,7 @@
 My Dotfiles
 
 ## Dependencies
--> Make sure you have a nerd font installed, preferably (MesloLGS NF)[https://github.com/romkatv/powerlevel10k#meslo-nerd-font-patched-for-powerlevel10k]
+-> Make sure you have a nerd font installed, preferably [MesloLGS NF](https://github.com/romkatv/powerlevel10k#meslo-nerd-font-patched-for-powerlevel10k)
 
 -> Install Oh-my-zsh
 
