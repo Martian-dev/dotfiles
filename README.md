@@ -10,7 +10,7 @@ My Dotfiles
 
 -> Install lfcd if you want, or just remove that part in the .zshrc, I would recommend going with ranger.
 
--> Download powerlevel10k terminal prompt using the following command 
-    ```bash
+-> Download powerlevel10k terminal prompt using the following command
+    ```
     git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
     ```
